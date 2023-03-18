@@ -1,0 +1,13 @@
+package com.dealFinderProject.App;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class DealFinderProjectApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(DealFinderProjectApplication.class, args);
+	}
+
+}
